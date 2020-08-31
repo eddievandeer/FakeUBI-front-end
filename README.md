@@ -1,6 +1,6 @@
 # 前言
 
-该项目为本人大二 JavaWeb 课程的期末作业，采用前后端分离的模式开发，前端使用了 **vue** ， **vue-router** ， **webpack** ， **sass** ；后端使用了 **Spring** ， **SpringMVC** ， **Mybatis** ，数据库使用 **MySQL数据库** 。
+该项目为本人大二 JavaWeb 课程的期末作业，采用前后端分离的模式开发，前端使用了**vue**，**vue-router**，**webpack**，**sass**；后端使用了**Spring**，**SpringMVC**，**Mybatis**，数据库使用**MySQL数据库**。
 
 前端页面参考了育碧官方网站的部分内容，但并不是照搬照抄，融入了不少自己的风格。由于刚接触vue不久，前端方面还存在着诸多不足，还需继续学习，加以改进。
 
